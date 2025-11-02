@@ -65,5 +65,6 @@ was given to graphics.
 **v05:** Finally, it awakens as Symbol OS - a chat-like monochrome operating system of the symbolic world.
 
 ## Sneak peek
+
 [symp promo material](https://tearflake.github.io/symp-promo/)  
-[screen shot](sshot.png)
+[screen shot](https://github.com/symbol-os/symbol-os.github.io/blob/main/sshot.png?raw=true)
