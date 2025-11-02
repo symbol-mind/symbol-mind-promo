@@ -66,5 +66,5 @@ was given to graphics.
 
 ## Sneak peek
 
-[symp promo material](https://tearflake.github.io/symp-promo/)  
 [OS screen shot](https://symbol-os.github.io/sshot.png)
+[symp promo material](https://tearflake.github.io/symp-promo/)  
