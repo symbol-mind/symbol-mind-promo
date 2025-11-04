@@ -31,7 +31,7 @@ The **Symbol OS** is an **artifact from that other branch of possibility**, reim
 
 Its filesystem resembles a hierarchical database. Its editor reveals documents as living symbolic pages. Its shell speaks not in commands, but in computing frames.
 
-It is not a retro-OS, nor a modern one It is a visitor from another lineage, where **clarity of meaning guided design more than appearances ever did**.
+It is not a retro-OS, nor a modern one. It is a visitor from another lineage, where **clarity of meaning guided design more than appearances ever did**.
 
 ---
 
