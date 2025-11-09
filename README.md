@@ -16,20 +16,9 @@ There, the priority was not how things looked, but how clearly they could be exp
 
 ## The Alternate Lineage of Computing
 
-In that world, programming was built upon a single principle: that every computation must pass through a ritual of form and meaning. Instead of functions, objects and types, there was the computing frames where:
-
-- **Syntax** must be validated as a form.
-- **Semantics** must be assigned as a meaning.
-
-Every act of computing became a dialogue of symbols, where both the input and the output were equally accountable. What emerged was not just a language, but a symbolic operating system.
-
----
-
-## An Artifact Recovered
-
 The **Symbol OS** is an **artifact from that other branch of possibility**, reimagined in our present time.
 
-Its filesystem resembles a hierarchical database. Its user interface reveals documents as living symbolic pages. Its shell speaks not in commands, but in computing frames.
+Its filesystem resembles a hierarchical database. Its user interface reveals documents as living symbolic pages. Its shell speaks not in commands, but in computing functions.
 
 It is not a retro-OS, nor a modern one. It is a visitor from another lineage, where **clarity of meaning guided design more than appearances ever did**.
 
@@ -49,9 +38,9 @@ Exploring Symbol OS is stepping into this alternate history. It is austere and p
 
 ## The Vision
 
-**v01:** Symbol begins as a minimalist middleware symbolic kernel (Symp).  
-**v03:** It grows into a static full-stack framework (Symp + fore + back).  
-**v05:** Finally, it awakens as a Symbol OS — a dynamic chat-like monochrome operating system of the symbolic world.
+**Stage 1:** Symbol begins as a minimalist middleware symbolic kernel (match + verse + prose).  
+**Stage 2:** It grows into a static full-stack framework (Symp = kernel + fore + back).  
+**Stage 3:** Finally, it awakens as a Symbol OS — a dynamic chat-like monochrome operating system of the symbolic world.
 
 ---
 
