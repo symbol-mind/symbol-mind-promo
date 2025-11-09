@@ -38,9 +38,12 @@ Exploring Symbol OS is stepping into this alternate history. It is austere and p
 
 ## The Vision
 
-**Stage 1:** Symbol begins as a minimalist middleware symbolic kernel (match + verse + prose).  
-**Stage 2:** It grows into a static full-stack framework (Symp = kernel + fore + back).  
-**Stage 3:** Finally, it awakens as a Symbol OS — a dynamic chat-like monochrome operating system of the symbolic world.
+**Stage 1:** Symbol begins as a minimalist middleware symbolic kernel  
+match + verse + prose).  
+**Stage 2:** It grows into a static full-stack framework  
+(Symp = kernel + fore + back).  
+**Stage 3:** Finally, it awakens as a Symbol OS —  
+a dynamic chat-like monochrome operating system of the symbolic world.
 
 ---
 
