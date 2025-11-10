@@ -43,7 +43,7 @@ Exploring Symbol OS is stepping into this alternate history. It is austere and p
 2. It grows into a **full stack programming framework**  
    (Symp = kernel + back + fore).  
 3. Finally, it awakens as a pixelated monochrome **Symbol OS**  
-   (chat-like interface of the symbolic world).
+   (chat-like user interface of the symbolic world).
 
 ---
 
