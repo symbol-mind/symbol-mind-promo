@@ -8,7 +8,7 @@
 
 In our world, computing evolved under the pressure of graphics, games, and consumer appeal. Color displays, GPUs, and visual polish became the primary direction of progress.
 
-But imagine a parallel reality where things unfolded differently. In that world, hardware never advanced beyond **monochrome black-and-white pixels**. Screens remained simple and sharp. Yet while graphics stayed modest, *theory* advanced further than in our own history.  
+But imagine a parallel reality where things unfolded differently. In that world, hardware never advanced beyond **monochrome text mode**. Screens remained simple and sharp. Yet while graphics stayed modest, *theory* advanced further than in our own history.  
 
 There, the priority was not how things looked, but how clearly they could be expressed.  
 
@@ -28,9 +28,9 @@ It is not a retro-OS, nor a modern one. It is a visitor from another lineage, wh
 
 The Symbol OS is more than a tool. It is a *thought experiment*:
 
-- What if symbols had triumphed over pixels?
+- What if symbolic programming had triumphed over pixels?
+- What if every program had its form, meaning, and interpretation?
 - What if computing was designed to be understood, not just used?
-- What if every program had to prove both its form and its meaning before it could exist?
 
 Exploring Symbol OS is stepping into this alternate history. It is austere and playful at the same time — a monochrome mirror where theory carries the weight that, in our world, was given to graphics.
 
