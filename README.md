@@ -39,10 +39,10 @@ Exploring Symbol OS is stepping into this alternate history. It is austere and p
 ## The Vision Ahead
 
 1. Symbol begins as a minimalist **middleware symbolic kernel**  
-   (kernel = match + verse + prose).  
+   (back = match + verse + prose).  
 2. It grows into a **full stack programming framework**  
-   (Symp = kernel + back + fore).  
-3. Finally, it awakens as a pixelated monochrome **Symbol OS**  
+   (Symp = back + fore).  
+3. Finally, it awakens as a monochrome **Symbol OS**  
    (chat-like user interface of the symbolic world).
 
 ---
