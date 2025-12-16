@@ -1,38 +1,28 @@
 # The Symbol OS
 
-**a fantasy operating system from a world where meaning mattered more than pixels**
+**a thinking interface for expressing clear thoughts**
 
-## An OS from a Parallel World
+## Philosophy
 
-In our world, computing evolved under the pressure of graphics, games, and consumer appeal. Color displays, GPUs, and visual polish became the primary direction of progress.
+In a world where the majority chases beautiful but complex graphical interfaces, a small oasis of simplicity and minimalism arose.
 
-But imagine a parallel reality where things unfolded differently. In that world, hardware never advanced beyond **monochrome text mode**. Screens remained simple and sharp. Yet while graphics stayed modest, *theory* advanced further than in our own history.  
+There is no graphical user interface, only text mode. There are no millions of colors, only monochrome tint. Instead, the balance of structure emerges behind.
 
-There, the priority was not how things looked, but how clearly they could be expressed.  
+We intentionally trade the visual decoration for clarity of meaning. Here, unambiguous expressions and transparent interpretation carry the weight that, otherwise, is given to the graphical appearance.
 
-## The Alternate Lineage of Computing
+From this seed, without unnecessary features, the Symbol-OS is born.
 
-The **Symbol OS** is an **artifact from that other branch of possibility**, reimagined in our present time.
+## What is Symbol-OS?
 
-Its filesystem resembles a hierarchical database. Its user interface reveals documents as living symbolic pages. Its shell speaks not in commands, but in computing functions.
+A small, humane, calm, symbolic computing environment where people can think more clearly and program things that matter to them.
 
-It is not a retro-OS, nor a modern one. It is a visitor from another lineage, where **clarity of meaning guided design more than appearances ever did**.
+Not a product nor a platform. More like a thought interface. A modern-day Forth, Lisp, or Metamath, wrapped within a modest OS shell.
 
-## Why It Matters Here
-
-The Symbol OS is more than a tool. It is a *thought experiment*:
-
-- What if symbolic programming had triumphed over pixels?
-- What if every program had its form, meaning, and execution?
-- What if computing was designed to be understood, not just used?
-
-Exploring Symbol OS is stepping into this alternate history. It is austere and playful at the same time — a monochrome mirror where theory carries the weight that, in our world, was given to graphics.
+A place where someone can sit, write a bit of symbolic code, express ideas cleanly, and feel their mind come back into focus.
 
 ## The Vision Ahead
 
-1. Symbol begins as a minimalist **backend**  
-   (back = match + verse + prose).  
-2. It grows into a **full stack programming framework**  
-   (Symp = back + front).  
+1. Symbol begins as a minimalist **core**  
+2. It grows into a full stack programming framework with **devices**  
 3. Finally, it awakens as a monochrome text mode **Symbol OS**  
    (chat-like command like interface of the symbolic world).
