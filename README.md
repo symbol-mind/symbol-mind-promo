@@ -16,7 +16,7 @@ From this seed, and without unnecessary features, the Symbol-OS is born.
 
 A small, humane, calm, **symbolic computing environment** where people can think more clearly and program things that matter to them.
 
-Not a product nor a platform. More like a thought interface. A modern-day **Forth, Lisp, or Metamath**, wrapped within a modest OS shell.
+Not a product nor a platform. More like a thought interface. A **modern-day Forth, Lisp, or Metamath**, wrapped within a modest OS shell.
 
 A place where someone can sit, write a bit of symbolic code, **express ideas cleanly**, and feel their mind come back into focus.
 
