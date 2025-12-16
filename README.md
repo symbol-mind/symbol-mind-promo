@@ -4,21 +4,21 @@
 
 ## Philosophy
 
-In a world where the majority chases beautiful but complex graphical interfaces, a small oasis of simplicity and minimalism arose.
+In a world where the majority chases beautiful but complex graphical interfaces, a **small oasis** of simplicity and minimalism arose.
 
-There is no graphical user interface, only text mode. There are no millions of colors, only monochrome tint. Instead, the balance of structure emerges behind.
+There is no graphical user interface, only text mode. There are no millions of colors, only monochrome tint. Instead, the **balance of structure** emerges behind.
 
-We intentionally trade the visual decoration for clarity of meaning. Here, unambiguous expressions and transparent interpretation carry the weight that, otherwise, is given to the graphical appearance.
+We intentionally trade the visual decoration for **clarity of meaning**. Here, unambiguous expressions and transparent interpretation carry the weight that, otherwise, is given to the graphical appearance.
 
-From this seed, without unnecessary features, the Symbol-OS is born.
+From this seed, and without unnecessary features, the Symbol-OS is born.
 
 ## What is Symbol-OS?
 
-A small, humane, calm, symbolic computing environment where people can think more clearly and program things that matter to them.
+A small, humane, calm, **symbolic computing environment** where people can think more clearly and program things that matter to them.
 
-Not a product nor a platform. More like a thought interface. A modern-day Forth, Lisp, or Metamath, wrapped within a modest OS shell.
+Not a product nor a platform. More like a thought interface. A modern-day **Forth, Lisp, or Metamath**, wrapped within a modest OS shell.
 
-A place where someone can sit, write a bit of symbolic code, express ideas cleanly, and feel their mind come back into focus.
+A place where someone can sit, write a bit of symbolic code, **express ideas cleanly**, and feel their mind come back into focus.
 
 ## The Vision Ahead
 
