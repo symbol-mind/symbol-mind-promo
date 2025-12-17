@@ -22,7 +22,7 @@ From this seed, and without unnecessary features, we bring the Symbol-OS into ex
 
 ## The Vision Ahead
 
-1. Symbol begins as a minimalist **core**  
-2. Its **devices** grow into a full stack programming framework  
+1. Symbol begins as a minimalist **core** backend programming framework  
+2. Its **devices** make it become a full stack programming framework  
 3. Finally, it awakens as a monochrome text mode **Symbol OS**  
    (chat-like command line interface of the symbolic world).
