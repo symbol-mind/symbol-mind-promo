@@ -4,7 +4,7 @@
 
 # Symbol-OS
 
-a thinking environment for expressing clear thoughts
+environment for formally assisted thinking
 
 ---
 
