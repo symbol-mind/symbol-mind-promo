@@ -4,7 +4,7 @@
 
 # Symbol-OS
 
-environment for formally assisted thinking  
+formally assisted thinking environment
 
 ---
 
