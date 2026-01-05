@@ -14,7 +14,7 @@ A small, humane, calm, **symbolic computing environment** where someone can thin
 
 Not a product nor a platform. More like a **thought interface**. A modern day Lisp, Forth, or Metamath used to formally deduce reliable facts.
 
-A place where someone can sit, write a bit of symbolic code, **express ideas cleanly**, and feel their mind come back into focus.
+A place where someone can sit, write a bit of symbolic code, **express ideas cleanly**, and check their correctness.
 
 The **ideas may be documented** and stored for later reflections.
 
