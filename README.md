@@ -38,7 +38,7 @@ A lot of intellectual tasks could be performed by Symbol-mind using provided too
 
 Formalizations may involve **fact analysis and synthesis**, **task planning and optimization**, or **theory verifying and proving**.
 
-Symbol-mind intention is to serve as a **truth validation medium** assisting in identifying the right facts for solving the right tasks.
+The main intention is to serve as a **truth validation medium** assisting in identifying the right facts for solving the right tasks.
 
 ```
 // WORK IN PROGRESS //
